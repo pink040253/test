@@ -1,1 +1,2 @@
 I am a test text.
+And now I change myself.
